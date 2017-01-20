@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>page 01</h1>
+    <h1>最普通，最正常的渲染方式</h1>
   </div>
 </template>
 
